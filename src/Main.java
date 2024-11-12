@@ -6,6 +6,8 @@ public class Main {
         p.Saudacao();
         Soma s = new Soma();
         s.Somar(10,10);
+        Input i = new Input();
+        i.lerEscrever();
 
     }
 }
