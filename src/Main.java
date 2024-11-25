@@ -8,6 +8,13 @@ public class Main {
         s.Somar(10,10);
         Input i = new Input();
         i.lerEscrever();
+        For f = new For();
+        f.exemploFor();
+        While w = new While();
+        w.ExemploWhile(null);
+        Switch sw = new Switch();
+        sw.ExemploSwitch(1);
+        
 
     }
 }
